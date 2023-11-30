@@ -1,0 +1,6 @@
+The steps in initiating truffle and creating a project
+installation of truffle command npm install -g truffle
+after installation we can check the version of truffle with command - truffle version 
+Creating the project: mkdir Metacoin
+                     cd Metacoin 
+now after creating a project we download unbox using command - truffle unbox metacoin / if we need to create just a truffle project we can initiate it with command truffle init.

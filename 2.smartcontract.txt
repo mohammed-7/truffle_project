@@ -1,0 +1,8 @@
+compiling smart contracts
+
+installation of truffle : truffle itself is a smart contract development  tool and testing framework for blockchain networks.
+secondly by using ganache we will be funding the ethers to our smart contracts, 
+create a project directory ,
+install a truffle project 
+inside the truffle you will find a contracts folder in which we will be writing and saving all our smart contracts. 
+by using truffle compile command we will be compiling the contracts .
